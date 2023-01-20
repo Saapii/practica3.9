@@ -1,0 +1,42 @@
+h1 {
+    text-align: center;
+    font-style: italic;
+}
+
+p.izquierda {
+    float: left;
+}
+
+h3.amunt {
+    font-style: italic;
+    color: orange;
+   text-align: right;
+}
+
+
+h3.enlace {
+    text-align: center;
+    color: black;
+}
+
+h2 {
+    text-align: left;
+
+}
+
+h3 {
+    text-align: right;
+}
+
+pre.derechados {
+    text-align: right;
+}
+
+p.arriba {
+    text-align: left;
+    top: 10px;
+}
+
+body {
+    background-image: url("img/estadio2.jpeg");
+}

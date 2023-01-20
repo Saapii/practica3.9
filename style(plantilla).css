@@ -1,0 +1,11 @@
+div.negro {
+    background-color: black;
+}
+h4.naranja {
+    text-align: center;
+    color: orange;
+}
+
+body {
+    background-image: url("img/estadio2.jpeg");
+}
